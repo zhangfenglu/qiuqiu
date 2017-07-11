@@ -76,6 +76,15 @@ private:
 
 	void touchEvent(CCObject *pSender, ui::TouchEventType type);
 
+	//�ֿⰴť
+	ui::UIButton* btn_cangku;
+	ui::UIButton* btn_help;
+	ui::UIButton* btn_close;
+
+	//Panel5
+	ui::Layout *Panel5;
+	ui::UIButton* btn_close5;
+
 
 };
 
