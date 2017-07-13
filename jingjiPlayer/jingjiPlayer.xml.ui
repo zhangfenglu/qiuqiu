@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\Administrator\Desktop\jingjiPlayer</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\Administrator\Desktop\jingjiPlayer\Resources</Resources>
+  <Name>jingjiPlayer</Name>
+  <JsonFileName>jingjiPlayer.json</JsonFileName>
+  <JsonFolder>C:\Users\Administrator\Desktop\jingjiPlayer\Json</JsonFolder>
+  <JsonList>
+    <string>jingjiPlayer.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1280</Width>
+    <Height>720</Height>
+  </CanvasSize>
+  <filePath>C:\Users\Administrator\Desktop\jingjiPlayer\jingjiPlayer.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson />
+</UIProject>
