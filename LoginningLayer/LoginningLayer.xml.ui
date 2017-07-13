@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\Administrator\Desktop\LoginningLayer</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\Administrator\Desktop\LoginningLayer\Resources</Resources>
+  <Name>LoginningLayer</Name>
+  <JsonFileName>LoginningLayer.json</JsonFileName>
+  <JsonFolder>C:\Users\Administrator\Desktop\LoginningLayer\Json</JsonFolder>
+  <JsonList>
+    <string>LoginningLayer.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>C:\Users\Administrator\Desktop\LoginningLayer\LoginningLayer.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList>
+    <string>bg1.png</string>
+    <string>bar.png</string>
+    <string>bg.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>LoginningLayer.json</CurrentUIJson>
+</UIProject>
